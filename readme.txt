@@ -9,6 +9,9 @@ see pr: https://github.com/jupyter/notebook/issues/2287
 jupyter notebook --ip ip --port 8888
 see reference doc regarding secure
 
+# without opening browser
+jupyter notebook --no-browser
+
 # create jupyter config
 jupyter notebook --generate-config
 
